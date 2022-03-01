@@ -1,1 +1,2 @@
-# programmers-solved
+## 코딩테스트 문제풀이 
+* 프로그래머스 javascript lv.1 ~ 꾸준히 풀이하기
