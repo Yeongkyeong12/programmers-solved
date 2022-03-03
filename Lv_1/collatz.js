@@ -1,3 +1,5 @@
+// #1. collatz 추론하기
+
 function solution(num) {
   var answer = 0;
 
